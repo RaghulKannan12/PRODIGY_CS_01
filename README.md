@@ -1,7 +1,5 @@
 # PRODIGY_CS_01
 Implementing Caesar Cipher
-Let's talk about the Caesar Cipher using the code you provided.
-
 Imagine you have a secret message that you want to send to your friend, but you don't want anyone else to understand it if they happen to see it. The Caesar Cipher is a simple way to encrypt your message so that only you and your friend can understand it.
 
 Here's how it works:
